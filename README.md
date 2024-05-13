@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi guys! my name is Vitória, I am a technology student, I live in Brazil  👋
 
 <!--
 **VitoriaSantosd/VitoriaSantosd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
